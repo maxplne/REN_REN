@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<config>
+	<url>
+		<headerUrl>http://www.zimuzu.tv/user/login</headerUrl>
+		<loginUrl>http://www.zimuzu.tv/user/sign</loginUrl>
+		<signUrl>http://www.zimuzu.tv/User/Login/ajaxLogin</signUrl>
+		<doSignUrl>http://www.zimuzu.tv/user/sign/dosign</doSignUrl>
+	</url>
+	<userInfo>
+		<id>uid</id>
+		<password>1234567890</password>
+	</userInfo>
+	<lastsignTime></lastsignTime>
+</config>
